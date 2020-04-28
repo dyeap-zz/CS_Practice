@@ -43,8 +43,3 @@ print(mergeA_B(A,B))
 # list of strings. create a list of dictionary. Figure out which are the same. Another dictionary with index. key: dicionary val: list [index]
 
 
-def group_anagram():
-
-
-
-group_anagram()
