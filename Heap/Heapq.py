@@ -21,6 +21,9 @@ print(nums)
 heap = [3,2,1,4]
 
 
+
+
+
 num = [2,0,2,1,1,0]
 
 for i,number in enumerate(num):
@@ -40,3 +43,31 @@ print(num)
 
 print()
 
+from collections import namedtuple
+
+words = [(-2,3,"good"),(-2,1,"hi"),(-1,6,"hi"),(-1,-1,"hi"),(-1,-1,"h")]
+
+engine = namedtuple('word',('o','i','w'))
+def to_engine(tup):
+    occ = tup[0]
+    index = tup[1]
+    word = tup[2]
+    return engine(occ,index,word)
+
+eng = [to_engine(tup) for tup in words]
+heapq.heapify(eng)
+
+
+while(eng):
+    word = heapq.heappop(eng)
+    print(word.o,word.i,word.w)
+
+
+'''
+# how does heap order tuples
+nums = [(-2,3,"good"),(-2,1,"hi"),(-1,6,"hi"),(-1,-1,"hi"),(-1,-1,"h")]
+heapq.heapify(nums)
+while(nums):
+    print(heapq.heappop(nums))
+
+'''

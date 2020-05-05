@@ -45,3 +45,9 @@ meeting_planner(slotsA,slotsB,8)
         else:
             eventsA.popleft() 
 '''
+
+num = [(-3,1),(-2,3),(-4,1),(-2,6)]
+num.sort()
+print(num)
+import sys
+print(sys.getsizeof(1))
