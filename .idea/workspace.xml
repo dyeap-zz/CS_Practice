@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3db315a3-f74b-471f-bcee-6dd10ce758d3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BinaryTree/StackTraversal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinaryTree/BST.py" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree/BST.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scratch.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scratch.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,11 +21,11 @@
     <SUITE FILE_PATH="coverage/linked_list$RecusionPractice.coverage" NAME="RecusionPractice Coverage Results" MODIFIED="1581379977836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/linked_list$3_6.coverage" NAME="3.6 Coverage Results" MODIFIED="1582438902032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CS_practice$Heapq.coverage" NAME="Heapq Coverage Results" MODIFIED="1588545366241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Heap" />
-    <SUITE FILE_PATH="coverage/CS_practice$StackTraversal.coverage" NAME="StackTraversal Coverage Results" MODIFIED="1588738062397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BinaryTree" />
+    <SUITE FILE_PATH="coverage/CS_practice$StackTraversal.coverage" NAME="StackTraversal Coverage Results" MODIFIED="1588811571975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BinaryTree" />
     <SUITE FILE_PATH="coverage/CS_practice$Chapter1.coverage" NAME="Chapter1 Coverage Results" MODIFIED="1588026470311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CrackingtheCodingInterview" />
     <SUITE FILE_PATH="coverage/CS_practice$main.coverage" NAME="main Coverage Results" MODIFIED="1587322139594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Google/TechDevGuide/MineSweeper" />
     <SUITE FILE_PATH="coverage/linked_list$DoubleLinkedList.coverage" NAME="DoubleLinkedList Coverage Results" MODIFIED="1579847739151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/CS_practice$Scratch.coverage" NAME="Scratch Coverage Results" MODIFIED="1588182907120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CS_practice$Scratch.coverage" NAME="Scratch Coverage Results" MODIFIED="1588811695325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CS_practice$amazon_practice__1_.coverage" NAME="amazon_practice (1) Coverage Results" MODIFIED="1586588595624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/linked_list$InsertionSort.coverage" NAME="InsertionSort Coverage Results" MODIFIED="1580457519082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CS_practice$LamdaFunction.coverage" NAME="LamdaFunction Coverage Results" MODIFIED="1587012259431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
@@ -127,13 +126,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="37" />
-          <entry key="py" value="36802" />
+          <entry key="py" value="36855" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="37" />
-          <entry key="Python" value="36802" />
+          <entry key="Python" value="36855" />
         </counts>
       </usages-collector>
     </session>
@@ -158,7 +157,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BinaryTree/StackTraversal.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-928">
@@ -224,16 +223,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Scratch.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2415">
-              <caret line="161" column="11" selection-start-line="161" selection-start-column="11" selection-end-line="161" selection-end-column="11" />
+            <state relative-caret-position="339">
+              <caret line="191" column="44" selection-start-line="191" selection-start-column="44" selection-end-line="191" selection-end-column="44" />
               <folding>
-                <marker date="1588182751662" expanded="true" signature="459:541" ph="..." />
-                <marker date="1588182751662" expanded="true" signature="503:504" ph="..." />
-                <marker date="1588182751662" expanded="true" signature="1365:1393" ph="..." />
-                <marker date="1588182751662" expanded="true" signature="3240:3245" ph="..." />
+                <marker date="1588812225104" expanded="true" signature="459:541" ph="..." />
+                <marker date="1588812225104" expanded="true" signature="503:504" ph="..." />
+                <marker date="1588812225104" expanded="true" signature="1365:1393" ph="..." />
+                <marker date="1588812225104" expanded="true" signature="3240:3245" ph="..." />
               </folding>
             </state>
           </provider>
@@ -305,7 +304,6 @@
         <option value="$PROJECT_DIR$/CrackingtheCodingInterview/Chapter3StacksQueue.py" />
         <option value="$PROJECT_DIR$/CrackingtheCodingInterview/Chapter4TreeGraph.py" />
         <option value="$PROJECT_DIR$/DP/LC494TargetSum.py" />
-        <option value="$PROJECT_DIR$/Scratch.py" />
         <option value="$PROJECT_DIR$/DP/LC279.py" />
         <option value="$PROJECT_DIR$/DP/LC198.py" />
         <option value="$PROJECT_DIR$/DP/LC96.py" />
@@ -316,6 +314,7 @@
         <option value="$PROJECT_DIR$/Google/pramp_good_code.py" />
         <option value="$PROJECT_DIR$/BinaryTree/BST.py" />
         <option value="$PROJECT_DIR$/BinaryTree/StackTraversal.py" />
+        <option value="$PROJECT_DIR$/Scratch.py" />
       </list>
     </option>
   </component>
@@ -394,7 +393,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.StackTraversal">
+  <component name="RunManager" selected="Python.Scratch">
     <configuration name="BST" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CS_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -439,7 +438,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="LC96" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Scratch" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CS_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -447,12 +446,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DP/LC96.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scratch.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -506,19 +505,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.LC96" />
       <item itemvalue="Python.pramp_good_code" />
       <item itemvalue="Python.Heapq" />
       <item itemvalue="Python.StackTraversal" />
       <item itemvalue="Python.BST" />
+      <item itemvalue="Python.Scratch" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Scratch" />
         <item itemvalue="Python.StackTraversal" />
         <item itemvalue="Python.BST" />
         <item itemvalue="Python.pramp_good_code" />
         <item itemvalue="Python.Heapq" />
-        <item itemvalue="Python.LC96" />
       </list>
     </recent_temporary>
   </component>
@@ -537,14 +536,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="43" width="1260" height="662" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31609195" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31609195" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32982457" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32982457" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -632,6 +632,11 @@
           <url>file://$PROJECT_DIR$/DP/LC279.py</url>
           <line>38</line>
           <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Scratch.py</url>
+          <line>172</line>
+          <option name="timeStamp" value="69" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -958,19 +963,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Scratch.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2415">
-          <caret line="161" column="11" selection-start-line="161" selection-start-column="11" selection-end-line="161" selection-end-column="11" />
-          <folding>
-            <marker date="1588182751662" expanded="true" signature="459:541" ph="..." />
-            <marker date="1588182751662" expanded="true" signature="503:504" ph="..." />
-            <marker date="1588182751662" expanded="true" signature="1365:1393" ph="..." />
-            <marker date="1588182751662" expanded="true" signature="3240:3245" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Google/pramp_good_code.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -999,6 +991,19 @@
           <folding>
             <marker date="1588738062391" expanded="true" signature="260:535" ph="..." />
             <marker date="1588738062391" expanded="true" signature="495:497" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scratch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="191" column="44" selection-start-line="191" selection-start-column="44" selection-end-line="191" selection-end-column="44" />
+          <folding>
+            <marker date="1588812225104" expanded="true" signature="459:541" ph="..." />
+            <marker date="1588812225104" expanded="true" signature="503:504" ph="..." />
+            <marker date="1588812225104" expanded="true" signature="1365:1393" ph="..." />
+            <marker date="1588812225104" expanded="true" signature="3240:3245" ph="..." />
           </folding>
         </state>
       </provider>
