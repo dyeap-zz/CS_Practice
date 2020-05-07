@@ -155,7 +155,7 @@ class BinarySearchTree():
 
 
 
-
+'''
 
 bst = BinarySearchTree()
 bst.add_node(3)
@@ -170,3 +170,4 @@ print(bst.lookup(1))
 
 bst.print_postorder()
 a = 1
+'''
