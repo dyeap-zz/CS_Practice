@@ -162,3 +162,4 @@ print(x,y)
 print(int(4**(1/2)))
 
 
+if 1 < 2 < 3: print(True)
