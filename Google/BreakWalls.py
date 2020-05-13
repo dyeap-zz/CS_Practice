@@ -166,3 +166,20 @@ sol.shortestPath(grid,4)
 4. In BFS use a queue not stack
 
 '''
+
+class Solution(object):
+    def subarraySum(self, nums, k):
+        count = 0
+        sums = 0
+        d = dict()
+        d[0] = 1
+
+        for i in range(len(nums)):
+            sums += nums[i]
+            count += d.get(sums - k, 0)
+            d[sums] = d.get(sums, 0) + 1
+
+        return (count)
+
+sol = Solution()
+print(sol.subarraySum([1,1,2],3))

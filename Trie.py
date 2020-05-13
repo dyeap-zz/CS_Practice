@@ -59,3 +59,4 @@ trie.add_word("wait")
 print(trie.does_word_exist(""))
 
 '''
+

@@ -163,3 +163,6 @@ print(int(4**(1/2)))
 
 
 if 1 < 2 < 3: print(True)
+
+for (m,n) in [(-1,0),(1,0),(0,1),(0,-1)]:
+    print(m,n)
