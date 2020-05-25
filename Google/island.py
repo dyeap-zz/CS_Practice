@@ -44,5 +44,6 @@ print(get_number_of_islands([[1, 0, 1, 0],
                              [0, 0, 1, 0]]))
 
 
-if [-1]:
-    print("yes")
+d= set()
+d.add(1)
+print(type(d))
