@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3db315a3-f74b-471f-bcee-6dd10ce758d3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Dictionary/Counter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DP/560.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DP/LC300.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DP/LC39.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/grid.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dictionary/OrderedDctionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dictionary/OrderedDctionary.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Google/island.py" beforeDir="false" afterPath="$PROJECT_DIR$/Google/island.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ListQueueStack/QueueCollections.py" beforeDir="false" afterPath="$PROJECT_DIR$/ListQueueStack/QueueCollections.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DP/LC494TargetSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/DP/LC494TargetSum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dictionary/Counter.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dictionary/Counter.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,6 +30,7 @@
     <SUITE FILE_PATH="coverage/CS_practice$StackTraversal.coverage" NAME="StackTraversal Coverage Results" MODIFIED="1588811571975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BinaryTree" />
     <SUITE FILE_PATH="coverage/CS_practice$Chapter1.coverage" NAME="Chapter1 Coverage Results" MODIFIED="1588026470311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CrackingtheCodingInterview" />
     <SUITE FILE_PATH="coverage/CS_practice$island.coverage" NAME="island Coverage Results" MODIFIED="1590284194040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Google" />
+    <SUITE FILE_PATH="coverage/CS_practice$grid.coverage" NAME="grid Coverage Results" MODIFIED="1590570588129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
     <SUITE FILE_PATH="coverage/CS_practice$main.coverage" NAME="main Coverage Results" MODIFIED="1587322139594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Google/TechDevGuide/MineSweeper" />
     <SUITE FILE_PATH="coverage/linked_list$DoubleLinkedList.coverage" NAME="DoubleLinkedList Coverage Results" MODIFIED="1579847739151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CS_practice$Scratch.coverage" NAME="Scratch Coverage Results" MODIFIED="1589353615539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -36,7 +39,8 @@
     <SUITE FILE_PATH="coverage/linked_list$InsertionSort.coverage" NAME="InsertionSort Coverage Results" MODIFIED="1580457519082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CS_practice$LamdaFunction.coverage" NAME="LamdaFunction Coverage Results" MODIFIED="1587012259431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
     <SUITE FILE_PATH="coverage/linked_list$BubbleSort.coverage" NAME="BubbleSort Coverage Results" MODIFIED="1580455678671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/CS_practice$LC494TargetSum.coverage" NAME="LC494TargetSum Coverage Results" MODIFIED="1588128051692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DP" />
+    <SUITE FILE_PATH="coverage/CS_practice$LC494TargetSum.coverage" NAME="LC494TargetSum Coverage Results" MODIFIED="1590504316678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DP" />
+    <SUITE FILE_PATH="coverage/CS_practice$LC39.coverage" NAME="LC39 Coverage Results" MODIFIED="1590450230298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DP" />
     <SUITE FILE_PATH="coverage/linked_list$Node.coverage" NAME="Node Coverage Results" MODIFIED="1579834132062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/linked_list$WD.coverage" NAME="WD Coverage Results" MODIFIED="1583788015487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CS_practice$DefaultDict.coverage" NAME="DefaultDict Coverage Results" MODIFIED="1587014245906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dictionary" />
@@ -57,6 +61,7 @@
     <SUITE FILE_PATH="coverage/CS_practice$QueueCollections.coverage" NAME="QueueCollections Coverage Results" MODIFIED="1590284993571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ListQueueStack" />
     <SUITE FILE_PATH="coverage/CS_practice$BST.coverage" NAME="BST Coverage Results" MODIFIED="1588709499173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BinaryTree" />
     <SUITE FILE_PATH="coverage/CS_practice$Trie.coverage" NAME="Trie Coverage Results" MODIFIED="1589352113445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CS_practice$LC300.coverage" NAME="LC300 Coverage Results" MODIFIED="1590565175185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DP" />
     <SUITE FILE_PATH="coverage/linked_list$BST.coverage" NAME="BST Coverage Results" MODIFIED="1580431084831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CS_practice$pramp_good_code.coverage" NAME="pramp_good_code Coverage Results" MODIFIED="1588551590608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Google" />
     <SUITE FILE_PATH="coverage/linked_list$Google_leetcode.coverage" NAME="Google_leetcode Coverage Results" MODIFIED="1586564896275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -128,24 +133,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="55" />
+          <entry key="py" value="64" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="55" />
+          <entry key="Python" value="64" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="37" />
-          <entry key="py" value="42665" />
+          <entry key="dummy" value="39" />
+          <entry key="py" value="45177" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="37" />
-          <entry key="Python" value="42665" />
+          <entry key="PLAIN_TEXT" value="39" />
+          <entry key="Python" value="45177" />
         </counts>
       </usages-collector>
     </session>
@@ -153,10 +158,60 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Google/coverage.py">
+        <entry file="file://$PROJECT_DIR$/Dictionary/OrderedDctionary.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="225">
+              <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DP/LC39.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+              <folding>
+                <marker date="1590451653138" expanded="true" signature="0:2" ph="..." />
+                <marker date="1590451653138" expanded="true" signature="452:453" ph="..." />
+                <marker date="1590451653138" expanded="true" signature="752:878" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DP/560.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="11" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DP/LC300.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="212">
+              <caret line="99" lean-forward="true" selection-start-line="99" selection-end-line="99" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DP/LC494TargetSum.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="303">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DP/LC279.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="885">
+              <caret line="59" column="64" selection-start-line="59" selection-start-column="64" selection-end-line="59" selection-end-column="64" />
             </state>
           </provider>
         </entry>
@@ -171,73 +226,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Scratch.py">
+        <entry file="file://$PROJECT_DIR$/DP/LC96.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2490">
-              <caret line="166" column="9" selection-start-line="166" selection-start-column="9" selection-end-line="166" selection-end-column="9" />
-              <folding>
-                <marker date="1589353053918" expanded="true" signature="459:541" ph="..." />
-                <marker date="1589353053918" expanded="true" signature="503:504" ph="..." />
-                <marker date="1589353053918" expanded="true" signature="1365:1393" ph="..." />
-                <marker date="1589353053918" expanded="true" signature="3240:3245" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Google/island.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="430">
-              <caret line="48" column="13" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ListQueueStack/QueueCollections.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Dictionary/OrderedDctionary.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Dictionary/Dictionary.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="49" selection-start-line="1" selection-start-column="49" selection-end-line="1" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Dictionary/Counter.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="302">
-              <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Dictionary/DefaultDict.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-13">
-              <caret line="2" column="49" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
+            <state relative-caret-position="870">
+              <caret line="58" column="11" selection-start-line="58" selection-start-column="11" selection-end-line="58" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -247,6 +239,15 @@
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="18" selection-start-column="18" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python/grid.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -269,6 +270,8 @@
       <find>inor</find>
       <find>add_node_traverse</find>
       <find>print</find>
+      <find>memo</find>
+      <find>res</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -277,11 +280,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/RecusionPractice.py" />
-        <option value="$PROJECT_DIR$/3.6.py" />
-        <option value="$PROJECT_DIR$/Heapq.py" />
-        <option value="$PROJECT_DIR$/Zscaler.py" />
-        <option value="$PROJECT_DIR$/WD.py" />
         <option value="$PROJECT_DIR$/CC.py" />
         <option value="$PROJECT_DIR$/Google_leetcode.py" />
         <option value="$PROJECT_DIR$/Udemy_Python.py" />
@@ -308,7 +306,6 @@
         <option value="$PROJECT_DIR$/CrackingtheCodingInterview/Chapter2LinkedList.py" />
         <option value="$PROJECT_DIR$/CrackingtheCodingInterview/Chapter3StacksQueue.py" />
         <option value="$PROJECT_DIR$/CrackingtheCodingInterview/Chapter4TreeGraph.py" />
-        <option value="$PROJECT_DIR$/DP/LC494TargetSum.py" />
         <option value="$PROJECT_DIR$/DP/LC279.py" />
         <option value="$PROJECT_DIR$/DP/LC198.py" />
         <option value="$PROJECT_DIR$/DP/LC96.py" />
@@ -328,6 +325,12 @@
         <option value="$PROJECT_DIR$/ListQueueStack/QueueCollections.py" />
         <option value="$PROJECT_DIR$/Dictionary/OrderedDctionary.py" />
         <option value="$PROJECT_DIR$/Dictionary/Counter.py" />
+        <option value="$PROJECT_DIR$/DP/LC39.py" />
+        <option value="$PROJECT_DIR$/DP/560.py" />
+        <option value="$PROJECT_DIR$/DP/LC494TargetSum.py" />
+        <option value="$PROJECT_DIR$/DP/LC200.py" />
+        <option value="$PROJECT_DIR$/Python/grid.py" />
+        <option value="$PROJECT_DIR$/DP/LC300.py" />
       </list>
     </option>
   </component>
@@ -360,12 +363,12 @@
             <path>
               <item name="CS_practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="CS_practice" type="462c0819:PsiDirectoryNode" />
-              <item name="Dictionary" type="462c0819:PsiDirectoryNode" />
+              <item name="DP" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CS_practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="CS_practice" type="462c0819:PsiDirectoryNode" />
-              <item name="ListQueueStack" type="462c0819:PsiDirectoryNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -400,7 +403,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Counter">
+  <component name="RunManager" selected="Python.grid">
     <configuration name="Counter" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CS_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -423,7 +426,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="OrderedDctionary" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="LC300" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CS_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -431,12 +434,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dictionary" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dictionary/OrderedDctionary.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DP/LC300.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -445,7 +448,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="QueueCollections" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="LC39" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CS_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -453,12 +456,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ListQueueStack" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ListQueueStack/QueueCollections.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DP/LC39.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -467,7 +470,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Scratch" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="LC494TargetSum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CS_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -475,12 +478,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scratch.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DP/LC494TargetSum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -489,7 +492,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="island" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="grid" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CS_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -497,12 +500,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Google" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Google/island.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/grid.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -512,19 +515,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Scratch" />
-      <item itemvalue="Python.island" />
-      <item itemvalue="Python.QueueCollections" />
-      <item itemvalue="Python.OrderedDctionary" />
       <item itemvalue="Python.Counter" />
+      <item itemvalue="Python.grid" />
+      <item itemvalue="Python.LC39" />
+      <item itemvalue="Python.LC494TargetSum" />
+      <item itemvalue="Python.LC300" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.grid" />
+        <item itemvalue="Python.LC300" />
+        <item itemvalue="Python.LC494TargetSum" />
+        <item itemvalue="Python.LC39" />
         <item itemvalue="Python.Counter" />
-        <item itemvalue="Python.OrderedDctionary" />
-        <item itemvalue="Python.QueueCollections" />
-        <item itemvalue="Python.island" />
-        <item itemvalue="Python.Scratch" />
       </list>
     </recent_temporary>
   </component>
@@ -545,12 +548,12 @@
     <frame x="10" y="43" width="1260" height="662" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33087027" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33087027" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32982457" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32982457" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -626,16 +629,6 @@
           <option name="timeStamp" value="54" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/DP/LC494TargetSum.py</url>
-          <line>21</line>
-          <option name="timeStamp" value="61" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/DP/LC494TargetSum.py</url>
-          <line>13</line>
-          <option name="timeStamp" value="63" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/DP/LC279.py</url>
           <line>38</line>
           <option name="timeStamp" value="67" />
@@ -655,6 +648,11 @@
           <line>30</line>
           <option name="timeStamp" value="75" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP/LC494TargetSum.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -667,6 +665,31 @@
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>self.memo</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.eemo</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>sol.memo</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>memo</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.memo[(index,curr_sum)]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>i-k**2</expression-string>
         <language-id>Python</language-id>
@@ -687,44 +710,9 @@
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>word[j:]</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>word[0:j]</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>node2</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>math.floor(index/2)</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>int(math.floor(index)/2)</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="1663" selection-start-line="1663" selection-end-line="1663" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WD.py" />
-    <entry file="file://$PROJECT_DIR$/Heapq.py" />
-    <entry file="file://$PROJECT_DIR$/Zscaler.py" />
     <entry file="file://$PROJECT_DIR$/InsertionSort.py" />
     <entry file="file://$PROJECT_DIR$/GraphAdjList.py" />
     <entry file="file://$PROJECT_DIR$/IKM.py" />
@@ -875,20 +863,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DP/LC494TargetSum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DP/LC96.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="870">
-          <caret line="58" column="11" selection-start-line="58" selection-start-column="11" selection-end-line="58" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Google/Practice_test_cases/prampWordCountEngine.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -898,13 +872,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Heap/MinHeap.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DP/LC279.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="885">
-          <caret line="59" column="64" selection-start-line="59" selection-start-column="64" selection-end-line="59" selection-end-column="64" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Heap/Heapq.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -980,13 +947,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DP/LC198.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Scratch.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2490">
@@ -997,13 +957,6 @@
             <marker date="1589353053918" expanded="true" signature="1365:1393" ph="..." />
             <marker date="1589353053918" expanded="true" signature="3240:3245" ph="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DP/CreateDPTable.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -1024,13 +977,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dictionary/OrderedDctionary.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Dictionary/DefaultDict.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-13">
@@ -1047,8 +993,83 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Dictionary/Counter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+        <state relative-caret-position="242">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dictionary/OrderedDctionary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DP/LC494TargetSum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DP/LC279.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="59" column="64" selection-start-line="59" selection-start-column="64" selection-end-line="59" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DP/LC198.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DP/LC96.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="58" column="11" selection-start-line="58" selection-start-column="11" selection-end-line="58" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DP/LC39.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+          <folding>
+            <marker date="1590451653138" expanded="true" signature="0:2" ph="..." />
+            <marker date="1590451653138" expanded="true" signature="452:453" ph="..." />
+            <marker date="1590451653138" expanded="true" signature="752:878" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DP/CreateDPTable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DP/560.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="11" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/grid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DP/LC300.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="99" lean-forward="true" selection-start-line="99" selection-end-line="99" />
         </state>
       </provider>
     </entry>

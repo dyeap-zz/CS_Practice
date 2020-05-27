@@ -1,6 +1,7 @@
 
 
 class Solution:
+    memo = {}
     def findTargetSumWays(self, nums, S):
         index = len(nums) - 1
         curr_sum = 0
@@ -22,7 +23,7 @@ class Solution:
         self.memo[(index, curr_sum)] = positive + negative
         return self.memo[(index, curr_sum)]
 
-nums = [1,2,3,4,5]
-s = 6
+nums = [1,1,1,1,1]
+s = 3
 sol = Solution()
 print(sol.findTargetSumWays(nums,s))

@@ -17,8 +17,3 @@ for char in S:
 # if key does not exist then 0 is returned instead of exception occurring
 print(count['z'])
 
-bucket = [[] for _ in range(3)]
-bucket[0].append(0)
-print(bucket)
-
-bucket[]
