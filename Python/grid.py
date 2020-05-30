@@ -20,3 +20,6 @@ for row in range(3):
     dp[row] = [0 for _ in range(3)]
 
 print(dp)
+
+bucket = ["" for _ in range(3)]
+print(int("007"))
