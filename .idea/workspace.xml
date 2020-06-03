@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3db315a3-f74b-471f-bcee-6dd10ce758d3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DP/LC337.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListNode/PassNodeValRef.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/deque.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/BFS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/DFS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/nestedFunction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Set/Set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topological_Sort/LC207.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Heap/Heapq.py" beforeDir="false" afterPath="$PROJECT_DIR$/Heap/Heapq.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dictionary/DefaultDict.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dictionary/DefaultDict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dictionary/Dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dictionary/Dictionary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph/GraphAdjList.py" beforeDir="false" afterPath="$PROJECT_DIR$/Graph/GraphAdjList.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python/grid.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/grid.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,15 +26,17 @@
     <SUITE FILE_PATH="coverage/linked_list$Scratch.coverage" NAME="Scratch Coverage Results" MODIFIED="1583827566504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/linked_list$Stack.coverage" NAME="Stack Coverage Results" MODIFIED="1579912175355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/linked_list$MinHeap.coverage" NAME="MinHeap Coverage Results" MODIFIED="1580878531288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CS_practice$Set.coverage" NAME="Set Coverage Results" MODIFIED="1591157080370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Set" />
     <SUITE FILE_PATH="coverage/linked_list$Heapq.coverage" NAME="Heapq Coverage Results" MODIFIED="1583577613340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/linked_list$QueueLinkedList.coverage" NAME="QueueLinkedList Coverage Results" MODIFIED="1580241187526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/linked_list$RecusionPractice.coverage" NAME="RecusionPractice Coverage Results" MODIFIED="1581379977836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CS_practice$GraphAdjList.coverage" NAME="GraphAdjList Coverage Results" MODIFIED="1590970379732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graph" />
     <SUITE FILE_PATH="coverage/linked_list$3_6.coverage" NAME="3.6 Coverage Results" MODIFIED="1582438902032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CS_practice$Heapq.coverage" NAME="Heapq Coverage Results" MODIFIED="1590639242180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Heap" />
     <SUITE FILE_PATH="coverage/CS_practice$StackTraversal.coverage" NAME="StackTraversal Coverage Results" MODIFIED="1588811571975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BinaryTree" />
     <SUITE FILE_PATH="coverage/CS_practice$Chapter1.coverage" NAME="Chapter1 Coverage Results" MODIFIED="1588026470311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CrackingtheCodingInterview" />
     <SUITE FILE_PATH="coverage/CS_practice$island.coverage" NAME="island Coverage Results" MODIFIED="1590284194040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Google" />
-    <SUITE FILE_PATH="coverage/CS_practice$grid.coverage" NAME="grid Coverage Results" MODIFIED="1590705244350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
+    <SUITE FILE_PATH="coverage/CS_practice$grid.coverage" NAME="grid Coverage Results" MODIFIED="1590970371852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
     <SUITE FILE_PATH="coverage/CS_practice$main.coverage" NAME="main Coverage Results" MODIFIED="1587322139594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Google/TechDevGuide/MineSweeper" />
     <SUITE FILE_PATH="coverage/linked_list$DoubleLinkedList.coverage" NAME="DoubleLinkedList Coverage Results" MODIFIED="1579847739151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CS_practice$Scratch.coverage" NAME="Scratch Coverage Results" MODIFIED="1589353615539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -36,16 +44,18 @@
     <SUITE FILE_PATH="coverage/CS_practice$rotatedSearch.coverage" NAME="rotatedSearch Coverage Results" MODIFIED="1589352084385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Google" />
     <SUITE FILE_PATH="coverage/linked_list$InsertionSort.coverage" NAME="InsertionSort Coverage Results" MODIFIED="1580457519082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CS_practice$LamdaFunction.coverage" NAME="LamdaFunction Coverage Results" MODIFIED="1587012259431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
+    <SUITE FILE_PATH="coverage/CS_practice$DFS.coverage" NAME="DFS Coverage Results" MODIFIED="1590977153565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graph" />
     <SUITE FILE_PATH="coverage/linked_list$BubbleSort.coverage" NAME="BubbleSort Coverage Results" MODIFIED="1580455678671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CS_practice$LC494TargetSum.coverage" NAME="LC494TargetSum Coverage Results" MODIFIED="1590504316678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DP" />
     <SUITE FILE_PATH="coverage/CS_practice$LC39.coverage" NAME="LC39 Coverage Results" MODIFIED="1590450230298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DP" />
     <SUITE FILE_PATH="coverage/linked_list$Node.coverage" NAME="Node Coverage Results" MODIFIED="1579834132062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/linked_list$WD.coverage" NAME="WD Coverage Results" MODIFIED="1583788015487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/CS_practice$DefaultDict.coverage" NAME="DefaultDict Coverage Results" MODIFIED="1587014245906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dictionary" />
     <SUITE FILE_PATH="coverage/CS_practice$LC279.coverage" NAME="LC279 Coverage Results" MODIFIED="1588207417140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DP" />
+    <SUITE FILE_PATH="coverage/CS_practice$DefaultDict.coverage" NAME="DefaultDict Coverage Results" MODIFIED="1591156681508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dictionary" />
     <SUITE FILE_PATH="coverage/linked_list$QueueCollections.coverage" NAME="QueueCollections Coverage Results" MODIFIED="1581379641991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CS_practice$Chapter4TreeGraph.coverage" NAME="Chapter4TreeGraph Coverage Results" MODIFIED="1588127983266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CrackingtheCodingInterview" />
     <SUITE FILE_PATH="coverage/linked_list$CC.coverage" NAME="CC Coverage Results" MODIFIED="1585870927780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CS_practice$deque.coverage" NAME="deque Coverage Results" MODIFIED="1591157124742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Collections" />
     <SUITE FILE_PATH="coverage/CS_practice$OptimalUtilization.coverage" NAME="OptimalUtilization Coverage Results" MODIFIED="1587364947250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon" />
     <SUITE FILE_PATH="coverage/CS_practice$IKM.coverage" NAME="IKM Coverage Results" MODIFIED="1586890022953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CS_practice$CountingSort.coverage" NAME="CountingSort Coverage Results" MODIFIED="1588022683746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -70,7 +80,7 @@
     <SUITE FILE_PATH="coverage/linked_list$LinkedList.coverage" NAME="LinkedList Coverage Results" MODIFIED="1579840428819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CS_practice$CreateDPTable.coverage" NAME="CreateDPTable Coverage Results" MODIFIED="1589072310626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DP" />
     <SUITE FILE_PATH="coverage/CS_practice$BreakWalls.coverage" NAME="BreakWalls Coverage Results" MODIFIED="1589278031494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Google" />
-    <SUITE FILE_PATH="coverage/CS_practice$Dictionary.coverage" NAME="Dictionary Coverage Results" MODIFIED="1587013632768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dictionary" />
+    <SUITE FILE_PATH="coverage/CS_practice$Dictionary.coverage" NAME="Dictionary Coverage Results" MODIFIED="1590992173362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dictionary" />
     <SUITE FILE_PATH="coverage/linked_list$Factorial.coverage" NAME="Factorial Coverage Results" MODIFIED="1580432548080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/linked_list$GraphAdjList.coverage" NAME="GraphAdjList Coverage Results" MODIFIED="1580879284255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/linked_list$MergeSort.coverage" NAME="MergeSort Coverage Results" MODIFIED="1580687377147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -125,31 +135,32 @@
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.27" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="67" />
+          <entry key="py" value="76" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="67" />
+          <entry key="Python" value="76" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="39" />
-          <entry key="py" value="46152" />
+          <entry key="dummy" value="40" />
+          <entry key="py" value="49592" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="39" />
-          <entry key="Python" value="46152" />
+          <entry key="PLAIN_TEXT" value="40" />
+          <entry key="Python" value="49592" />
         </counts>
       </usages-collector>
     </session>
@@ -157,99 +168,87 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DP/LC39.py">
+        <entry file="file://$PROJECT_DIR$/Topological_Sort/LC207.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+            <state relative-caret-position="280">
+              <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
               <folding>
-                <marker date="1590451653138" expanded="true" signature="0:2" ph="..." />
-                <marker date="1590451653138" expanded="true" signature="452:453" ph="..." />
-                <marker date="1590451653138" expanded="true" signature="752:878" ph="..." />
+                <marker date="1590996590217" expanded="true" signature="1761:1767" ph="..." />
+                <marker date="1590996590217" expanded="true" signature="1836:1845" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DP/560.py">
+        <entry file="file://$PROJECT_DIR$/Dictionary/Dictionary.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="11" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+            <state relative-caret-position="480">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DP/LC300.py">
+        <entry file="file://$PROJECT_DIR$/Set/Set.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="108" column="4" selection-start-line="108" selection-start-column="4" selection-end-line="108" selection-end-column="4" />
+            <state relative-caret-position="90">
+              <caret line="6" column="48" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DP/LC337.py">
+        <entry file="file://$PROJECT_DIR$/Collections/deque.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Heap/Heapq.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DP/LC198.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DP/LC96.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="870">
-              <caret line="58" column="11" selection-start-line="58" selection-start-column="11" selection-end-line="58" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DP/CreateDPTable.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="18" selection-start-column="18" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python/grid.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+            <state relative-caret-position="105">
+              <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python/nestedFunction.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dictionary/DefaultDict.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="385">
+              <caret line="29" column="12" lean-forward="true" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Graph/GraphAdjList.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="26" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Graph/DFS.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Graph/BFS.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ListNode/PassNodeValRef.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
-              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-              <folding>
-                <marker date="1590791030866" expanded="true" signature="650:864" ph="..." />
-              </folding>
+            <state relative-caret-position="615">
+              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
             </state>
           </provider>
         </entry>
@@ -272,8 +271,8 @@
       <find>inor</find>
       <find>add_node_traverse</find>
       <find>print</find>
-      <find>memo</find>
       <find>res</find>
+      <find>memo</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -282,16 +281,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Udemy_Python.py" />
-        <option value="$PROJECT_DIR$/IKM.py" />
-        <option value="$PROJECT_DIR$/CountingSort.py" />
-        <option value="$PROJECT_DIR$/Python/LamdaFunction.py" />
-        <option value="$PROJECT_DIR$/Dictionary/Dictionary.py" />
-        <option value="$PROJECT_DIR$/Dictionary/DefaultDict.py" />
-        <option value="$PROJECT_DIR$/Google/TechDevGuide/SubstringDictionary.py" />
-        <option value="$PROJECT_DIR$/Google/TechDevGuide/FoundationProgramming.py" />
-        <option value="$PROJECT_DIR$/Google/TechDevGuide/AdvProgramming.py" />
-        <option value="$PROJECT_DIR$/Google/TechDevGuide/MineSweeper/main.py" />
         <option value="$PROJECT_DIR$/amazon_practice.py" />
         <option value="$PROJECT_DIR$/amazon_practice.py" />
         <option value="$PROJECT_DIR$/Google/TechDevGuide/AdvProgramming/DecompressString.py" />
@@ -331,8 +320,18 @@
         <option value="$PROJECT_DIR$/DP/LC300.py" />
         <option value="$PROJECT_DIR$/DP/LC337.py" />
         <option value="$PROJECT_DIR$/Heap/Heapq.py" />
-        <option value="$PROJECT_DIR$/Python/grid.py" />
         <option value="$PROJECT_DIR$/ListNode/PassNodeValRef.py" />
+        <option value="$PROJECT_DIR$/Python/grid.py" />
+        <option value="$PROJECT_DIR$/Graph/BFS.py" />
+        <option value="$PROJECT_DIR$/Graph/GraphAdjList.py" />
+        <option value="$PROJECT_DIR$/Graph/DFS.py" />
+        <option value="$PROJECT_DIR$/Dictionary/DefaultDict.py" />
+        <option value="$PROJECT_DIR$/Topological_Sort/LC207.py" />
+        <option value="$PROJECT_DIR$/Dictionary/Dictionary.py" />
+        <option value="$PROJECT_DIR$/Set/SEt.py" />
+        <option value="$PROJECT_DIR$/Set/Set.py" />
+        <option value="$PROJECT_DIR$/Collections/deque.py" />
+        <option value="$PROJECT_DIR$/Python/nestedFunction.py" />
       </list>
     </option>
   </component>
@@ -365,7 +364,7 @@
             <path>
               <item name="CS_practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="CS_practice" type="462c0819:PsiDirectoryNode" />
-              <item name="Graph" type="462c0819:PsiDirectoryNode" />
+              <item name="Dictionary" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CS_practice" type="b2602c69:ProjectViewProjectNode" />
@@ -376,6 +375,21 @@
               <item name="CS_practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="CS_practice" type="462c0819:PsiDirectoryNode" />
               <item name="Python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CS_practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CS_practice" type="462c0819:PsiDirectoryNode" />
+              <item name="Set" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CS_practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CS_practice" type="462c0819:PsiDirectoryNode" />
+              <item name="Sorting" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CS_practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CS_practice" type="462c0819:PsiDirectoryNode" />
+              <item name="Topological_Sort" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -410,8 +424,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.PassNodeValRef">
-    <configuration name="Heapq" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.deque">
+    <configuration name="DFS" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CS_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -419,12 +433,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Heap" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Graph" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Heap/Heapq.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Graph/DFS.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -433,7 +447,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="LC300" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="DefaultDict" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CS_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -441,12 +455,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dictionary" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DP/LC300.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dictionary/DefaultDict.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -455,7 +469,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="LC494TargetSum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CS_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -463,12 +477,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dictionary" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DP/LC494TargetSum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dictionary/Dictionary.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -477,7 +491,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="PassNodeValRef" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Set" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CS_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -485,12 +499,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ListNode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Set" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ListNode/PassNodeValRef.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Set/Set.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -499,7 +513,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="grid" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="deque" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CS_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -507,12 +521,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Collections" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/grid.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Collections/deque.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -522,19 +536,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.grid" />
-      <item itemvalue="Python.LC494TargetSum" />
-      <item itemvalue="Python.LC300" />
-      <item itemvalue="Python.Heapq" />
-      <item itemvalue="Python.PassNodeValRef" />
+      <item itemvalue="Python.DFS" />
+      <item itemvalue="Python.Dictionary" />
+      <item itemvalue="Python.DefaultDict" />
+      <item itemvalue="Python.Set" />
+      <item itemvalue="Python.deque" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.PassNodeValRef" />
-        <item itemvalue="Python.grid" />
-        <item itemvalue="Python.Heapq" />
-        <item itemvalue="Python.LC300" />
-        <item itemvalue="Python.LC494TargetSum" />
+        <item itemvalue="Python.deque" />
+        <item itemvalue="Python.Set" />
+        <item itemvalue="Python.DefaultDict" />
+        <item itemvalue="Python.Dictionary" />
+        <item itemvalue="Python.DFS" />
       </list>
     </recent_temporary>
   </component>
@@ -555,13 +569,12 @@
     <frame x="10" y="43" width="1260" height="662" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33087027" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3357964" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Concurrent Activities Diagram" weight="0.32982457" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32982457" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32982457" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -572,6 +585,7 @@
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32982457" />
       <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.32982457" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -661,6 +675,11 @@
           <line>8</line>
           <option name="timeStamp" value="89" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Graph/GraphAdjList.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -721,37 +740,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/IKM.py" />
-    <entry file="file://$PROJECT_DIR$/Udemy_Python.py" />
-    <entry file="file://$PROJECT_DIR$/Google/TechDevGuide/AdvProgramming.py" />
-    <entry file="file://$PROJECT_DIR$/Google/TechDevGuide/MineSweeper/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="86" selection-start-line="86" selection-end-line="86" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Google/TechDevGuide/FoundationProgramming.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="360" selection-start-line="360" selection-end-line="360" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Google_leetcode.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="60" column="22" selection-start-line="60" selection-start-column="22" selection-end-line="60" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="308" selection-start-line="308" selection-end-line="308" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Google/TechDevGuide/AdvProgramming/DecompressString.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1950">
@@ -970,23 +958,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dictionary/DefaultDict.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-13">
-          <caret line="2" column="49" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dictionary/Dictionary.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="49" selection-start-line="1" selection-start-column="49" selection-end-line="1" selection-end-column="49" />
         </state>
       </provider>
     </entry>
@@ -1036,11 +1007,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
-          <folding>
-            <marker date="1590451653138" expanded="true" signature="0:2" ph="..." />
-            <marker date="1590451653138" expanded="true" signature="452:453" ph="..." />
-            <marker date="1590451653138" expanded="true" signature="752:878" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1074,27 +1040,83 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Heap/Heapq.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
+        <state relative-caret-position="1095">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Python/grid.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+        <state relative-caret-position="540">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Graph/DFS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Graph/BFS.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/ListNode/PassNodeValRef.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        <state relative-caret-position="615">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Topological_Sort/LC207.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
           <folding>
-            <marker date="1590791030866" expanded="true" signature="650:864" ph="..." />
+            <marker date="1590996590217" expanded="true" signature="1761:1767" ph="..." />
+            <marker date="1590996590217" expanded="true" signature="1836:1845" ph="..." />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Graph/GraphAdjList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dictionary/DefaultDict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="29" column="12" lean-forward="true" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dictionary/Dictionary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Set/Set.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="48" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Collections/deque.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/nestedFunction.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

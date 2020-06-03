@@ -23,3 +23,17 @@ print(dp)
 
 bucket = ["" for _ in range(3)]
 print(int("007"))
+
+from random import shuffle
+
+# how to check if li is []
+p = []
+if p ==[]: print("yes")
+
+num = [1,2,3,4,5]
+
+print(shuffle(num))
+print(num)
+
+d = {1:1}
+print(d.get(None))

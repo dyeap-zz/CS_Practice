@@ -28,3 +28,6 @@ int_dict_[2] = 3
 print(list_dict_)
 print(set_dict_)
 print(int_dict_)
+
+int_dict_['3'] = 3
+print(int_dict_)

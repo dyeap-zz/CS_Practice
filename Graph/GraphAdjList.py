@@ -1,4 +1,3 @@
-
 class Graph():
     def __init__(self):
         self.num_nodes = 0
@@ -38,4 +37,7 @@ graph.add_edge(4,2)
 graph.add_edge(3,4)
 graph.add_edge(4,5)
 graph.add_edge(5,6)
-a=2
+# adj list of graph with 7 nodes:
+# {0: [1, 2], 1: [0, 2, 3], 2: [0, 1, 4], 3: [1, 4], 4: [2, 3, 5], 5: [4, 6], 6: [5]}
+a = 2
+
