@@ -71,3 +71,5 @@ while(nums):
     print(heapq.heappop(nums))
 
 '''
+one = str(1)
+print(one[1:])
