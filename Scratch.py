@@ -166,3 +166,8 @@ if 1 < 2 < 3: print(True)
 
 for (m,n) in [(-1,0),(1,0),(0,1),(0,-1)]:
     print(m,n)
+import sys
+nums = [1,2,3]
+res = [] * len(res)
+print(res,sys.getsizeof(res))
+

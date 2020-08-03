@@ -21,6 +21,7 @@ print(list(map(lambda num: num*2, x)))
 
 
 
+
 print(map(lambda item: item*2,x))
 
 print(lambda:5)
@@ -32,3 +33,23 @@ print(marks.items())
 for key,val in marks.items():
     print(key,val)
 
+
+import random
+randomlist = []
+for i in range(0,5):
+    n = random.randint(1,30)
+    randomlist.append(n)
+print(randomlist)
+
+import itertools
+
+nums = [1,2,"3"]
+
+
+def pairwise(iterable):
+    "s -> (s0,s1), (s1,s2), (s2, s3), ..."
+    a, b = itertools.tee(iterable)
+    return (a,b)
+    #next(b, None)
+    #return list(zip(a, b))
+print(pairwise(nums))

@@ -12,6 +12,14 @@ list_dict_ = defaultdict(list)
 
 # set defaultdict
 set_dict_ = defaultdict(set)
+set_dict_['JFK'].add("ASD")
+set_dict_["JFK"].remove("ASD") # how to remove edge from graph
+if len(set_dict_['JFK']) == 0: del set_dict_['JFK']
+print("a")
+print(len(set_dict_.values()))
+
+
+
 
 # integer defaultdict
 int_dict_ = defaultdict(int)
@@ -31,3 +39,4 @@ print(int_dict_)
 
 int_dict_['3'] = 3
 print(int_dict_)
+
