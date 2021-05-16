@@ -19,25 +19,39 @@ a = 2, b = 2 or a = 0, b = 0 either can be used
 '''
 #custom comparator
 
+
+#PYTHON DOES NOT HAVE A CMP =, IT USES KEY =
 '''
 def absSort(arr):
-  def compare(a,b):
+  def cmp(a,b):
     if abs(a) < abs(b): return -1
     if abs(a) > abs(b): return 1
     if a < b: return -1
     if a > b: return 1
     return 0
 
-  arr.sort(key = compare)
+  arr.sort(key = cmp)
+  #a = sorted(arr,key = cmp)
   return arr
 
 arr = [2, -7, -2, -2, 0]
 print(absSort(arr))
-'''
-# custom comparator sort
 
+# custom comparator sort
+'''
 
 arr = [[4,2],[1,2],[0,3]]
 
 arr.sort(key=lambda x: x[0])
 print(arr)
+
+
+li = [30,3,34]
+class cmp(str):
+    def __lt__(x, y):
+        return x+y > y+x
+
+li.sort(key = cmp)
+s = [str(num) for num in li]
+res = "".join(s)
+print(res)

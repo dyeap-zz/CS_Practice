@@ -63,7 +63,7 @@ def union(n1,n2,parent):
     #p1 = find(n1,parent)
     p2 = find(n2,parent)
 
-    parent[n1]=p2
+    parent[find(n1)]=p2
 
 for n1,n2 in edges:
     union(n1,n2,parent)
